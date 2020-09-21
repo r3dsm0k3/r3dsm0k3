@@ -49,7 +49,7 @@ or if you'd rather keep it professional <a href="https://www.linkedin.com/in/aji
 </a>
 <br/>
 
-💬 But most importantly, lets connect<sup>11</sup>, I am always happy to have a conversation. 🤙
+💬 But most importantly, lets connect, I am always happy to have a conversation<sup>11</sup>. 🤙
 
 
 1. Pronounced as "ae-j-ee-th"
@@ -62,4 +62,6 @@ or if you'd rather keep it professional <a href="https://www.linkedin.com/in/aji
 8. Why isn't summer over already and why am I not in the arctic circle?
 9. [Spotify](https://open.spotify.com/user/9mdcujkd3w61dn77juag50iw3?si=CRheIP3YRIWO-RDVkKyLQQ), for you fellow metal heads \m/
 10. This keeps me sane <3
-11. Really, anything!!!
+11. Really, about anything!!!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=r3dsm0k3.r3dsm0k3)
