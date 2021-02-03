@@ -4,7 +4,7 @@
 
 
 
-Thanks for dropping by. Hi, I'm Ajith<sup>1</sup> aka r3dsm0k3<sup>2</sup>, a polyglot, jack of all engineer 🚀 living in Amsterdam ❌❌❌ . I code<sup>3</sup>, and more often than that, I break code<sup>4</sup>. These days, I do some Devopsy<sup>5</sup>,SRE stuff diving deep in to the treasure troves ✨ (and sometimes horrors ☠️) of Kubernetes which I really enjoy. 
+Thanks for dropping by. Hi, I'm Ajith<sup>1</sup> aka r3dsm0k3<sup>2</sup>, a polyglot, jack of all engineer 🚀 &nbsp;living in Amsterdam ❌❌❌&nbsp;. I code<sup>3</sup>, and more often than that, I break code<sup>4</sup>. These days, I do some Devopsy<sup>5</sup>,SRE stuff diving deep in to the treasure troves ✨ (and sometimes horrors ☠️&nbsp;) of Kubernetes which I really enjoy. 
 
 **Languages and Tools**
 
@@ -33,7 +33,7 @@ Thanks for dropping by. Hi, I'm Ajith<sup>1</sup> aka r3dsm0k3<sup>2</sup>, a po
 </p>
 
 
-When I'm not in front of the computer, I'm either putting my life in danger by trying to cook<sup>6</sup>, travelling<sup>7</sup>, chasing aurora borealis<sup>8</sup>, trying to achieve zen by listening to extreme death metal<sup>9</sup> or doing some photography <sup>10</sup>. You can find my photography work on my <a href="https://www.instagram.com/bunch_of_pixels">
+When I'm not in front of the computer, I'm either putting my life in danger by trying to cook🍳&nbsp;<sup>6</sup>, travelling🗺️&nbsp;<sup>7</sup>, chasing aurora borealis🌃&nbsp;<sup>8</sup>, trying to achieve zen by listening to extreme death metal🎸&nbsp;<sup>9</sup> or doing some photography 📸&nbsp;<sup>10</sup>. You can find my photography work on my <a href="https://www.instagram.com/bunch_of_pixels">
   <img  alt="Ajith's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> [@bunch_of_pixels](https://www.instagram.com/bunch_of_pixels)  
 
@@ -49,7 +49,7 @@ or if you'd rather keep it professional <a href="https://www.linkedin.com/in/aji
 </a>
 <br/>
 
-💬 But most importantly, lets connect, I am always happy to have a conversation<sup>11</sup>. 🤙
+💬 &nbsp;But most importantly, lets connect, I am always happy to have a conversation<sup>11</sup>. 🤙
 
 
 1. Pronounced as "ae-j-ee-th"
