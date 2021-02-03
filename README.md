@@ -4,7 +4,7 @@
 
 
 
-Thanks for dropping by. Hi, I'm Ajith<sup>1</sup> aka r3dsm0k3<sup>2</sup>, a polyglot, jack of all engineer 🚀  living in Amsterdam. I code<sup>3</sup>, and more often than that, I break code<sup>4</sup>. These days, I do some Devopsy<sup>5</sup>,SRE stuff diving deep in to the treasure troves ✨ (and sometimes horrors ☠️) of Kubernetes which I really enjoy. 
+Thanks for dropping by. Hi, I'm Ajith<sup>1</sup> aka r3dsm0k3<sup>2</sup>, a polyglot, jack of all engineer 🚀 living in Amsterdam ❌❌❌ . I code<sup>3</sup>, and more often than that, I break code<sup>4</sup>. These days, I do some Devopsy<sup>5</sup>,SRE stuff diving deep in to the treasure troves ✨ (and sometimes horrors ☠️) of Kubernetes which I really enjoy. 
 
 **Languages and Tools**
 
